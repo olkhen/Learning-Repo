@@ -1,3 +1,3 @@
 # Demo
 
-Text file for describing repo
+Text file for describing repo.
